@@ -1,0 +1,8 @@
+name: Tablist
+version: ${project.version}
+main: fr.timkyl2203.enluria.tablist.Tablist
+api-version: 1.13
+authors: [Timkyl2203]
+description: Tablist plugin for enluria
+depend:
+  - Vault
